@@ -215,4 +215,3 @@ volumes:
 ---
 
 Для детальной настройки смотрите [SETUP_MACOS.md](./SETUP_MACOS.md) или [SETUP_WINDOWS.md](./SETUP_WINDOWS.md)
-# infra
